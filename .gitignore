@@ -38,8 +38,8 @@ dist/**
 .next/**
 
 # workspaces
-packages/**
-apps/**
+/packages
+/apps
 
-# trash
+#trash
 ./__trash__
