@@ -41,5 +41,5 @@ dist/**
 packages/**
 apps/**
 
-#trash
+# trash
 ./__trash__
