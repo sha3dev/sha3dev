@@ -37,8 +37,9 @@ build/**
 dist/**
 .next/**
 
+# workspaces
+packages/**
+apps/**
+
 #trash
 ./__trash__
-
-#secret
-secret.txt
