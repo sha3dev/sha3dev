@@ -42,4 +42,4 @@ dist/**
 /apps/**
 
 #trash
-./__trash__
+__trash__
