@@ -10,6 +10,7 @@
     "gruntfuggly.todo-tree",
     "donjayamanne.githistory",
     "ryanluker.vscode-coverage-gutters",
-    "mhutchie.git-graph"
+    "mhutchie.git-graph",
+    "astro-build.astro-vscode"
   ]
 }

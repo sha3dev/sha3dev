@@ -43,3 +43,6 @@ dist/**
 
 #trash
 __trash__
+
+# macOS-specific files
+.DS_Store
