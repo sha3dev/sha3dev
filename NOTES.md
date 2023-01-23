@@ -15,3 +15,7 @@ ssh-add --apple-use-keychain ~/.ssh/root-sha3-dev
 ## ¿Cómo publicar una versión de un paquete?
 
 TODO
+
+## ¿Dónde conseguir web fonts pairings?
+
+https://venngage.com/blog/best-google-font-pairs/

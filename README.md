@@ -4,9 +4,9 @@ Hi! This is the sha3dev metarepo!
 
 ## Principles
 
-### Dependency inversion
+### Git Flow
 
-https://blog.logrocket.com/understanding-dependency-inversion-principle-typescript/
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ### Clean architecture
 
