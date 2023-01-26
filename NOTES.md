@@ -12,6 +12,10 @@
 
 ssh-add --apple-use-keychain ~/.ssh/root-sha3-dev
 
+## ¿Cóm hacer que aparezcan las apps y paquetes en la pestaña de Git del VS code?
+
+Añadir apps y packages como workspaces en VS Code, y luego quitarlos
+
 ## ¿Cómo publicar una versión de un paquete?
 
 TODO
