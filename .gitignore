@@ -40,6 +40,7 @@ dist/**
 # workspaces
 /packages/**
 /apps/**
+/infra/**
 
 #trash
 __trash__
