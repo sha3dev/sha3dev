@@ -16,10 +16,6 @@ ssh-add --apple-use-keychain ~/.ssh/root-sha3-dev
 
 Añadir apps y packages como workspaces en VS Code, y luego quitarlos
 
-## Dividers
-
-https://www.redpanther.io/blog/shape-dividers
-
 ## ¿Cómo publicar una versión de un paquete?
 
 TODO
