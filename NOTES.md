@@ -16,6 +16,10 @@ ssh-add --apple-use-keychain ~/.ssh/root-sha3-dev
 
 Añadir apps y packages como workspaces en VS Code, y luego quitarlos
 
+## ¿Que hacer si no funciona el auto formato al guardar?
+
+Asegurarnos que el packete/app tiene instalado el prettier 2.8.4
+
 ## ¿Cómo publicar una versión de un paquete?
 
 TODO
