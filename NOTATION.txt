@@ -1,0 +1,4 @@
+- class names: upper camel case
+- Types: upper camel case
+- class methods: lower camel case
+- 
