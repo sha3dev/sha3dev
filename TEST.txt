@@ -35,8 +35,7 @@ goal String,
 dim_int_0 Nullable(Int32),
 dim_flo_0 Nullable(Float32),
 dim_str_0 Nullable(String),
-dim_bol_0 Nullable(Bool),
-...
+dim_bol_0 Nullable(Bool)
 )
 
 ## Event Info
